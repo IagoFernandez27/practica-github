@@ -6,5 +6,5 @@ variable3=float(input("introduce un número decimal:"))
 print("el número introducido es:",variable1)
 print("la letra introducida es:",variable2)
 print("el número decimal introducido es:",variable3)
-
+#esta es mi modificación#
 
